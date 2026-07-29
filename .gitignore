@@ -1,0 +1,18 @@
+# Secrets
+*.json
+!.vscode/*.json
+
+# Generated scraper output
+debug_html/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
